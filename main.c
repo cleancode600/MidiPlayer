@@ -1,3 +1,9 @@
+/* Read and play MIDI files
+ *
+ * Original release by cleancode600
+ *
+ * 3rd february 2020
+ */
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
