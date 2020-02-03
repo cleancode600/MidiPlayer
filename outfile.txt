@@ -1,0 +1,1188 @@
+format 1, 1 tracks, division: 480 ticks / 1/4 note
+MTrk1:2642 bytes
+Delta time =0
+Time signature=1/Midi clock=24/Beat=8note
+Delta time =0
+Set Tempo (ms/qn)=500000
+Delta time =0
+Key signature=0/scale=0
+Delta time =0
+Midi port:0
+Delta time =0
+Control Change-0/Controller=121/Controller value=0
+Delta time =0
+Program Change-0/instrument=0
+Delta time =0
+Control Change-0/Controller=7/Controller value=99
+Delta time =0
+Control Change-0/Controller=10/Controller value=63
+Delta time =0
+Control Change-0/Controller=91/Controller value=0
+Delta time =0
+Control Change-0/Controller=93/Controller value=0
+Delta time =0
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =119
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =119
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =119
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =119
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=77_698.46/V=80
+Delta time =239
+Off-0/Note(freq)=77_698.46/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=77_698.46/V=80
+Delta time =239
+Off-0/Note(freq)=77_698.46/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =479
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =119
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =119
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =119
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =119
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=80_830.61/V=80
+Delta time =239
+Off-0/Note(freq)=80_830.61/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =959
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =119
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =119
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =119
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =119
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=77_698.46/V=80
+Delta time =239
+Off-0/Note(freq)=77_698.46/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=77_698.46/V=80
+Delta time =239
+Off-0/Note(freq)=77_698.46/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =479
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =119
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =119
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =119
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =119
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=80_830.61/V=80
+Delta time =239
+Off-0/Note(freq)=80_830.61/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =959
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =119
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =119
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =119
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =119
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =959
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=87_1244.51/V=80
+Delta time =239
+Off-0/Note(freq)=87_1244.51/V=0
+Delta time =1
+On-0/Note(freq)=87_1244.51/V=80
+Delta time =119
+Off-0/Note(freq)=87_1244.51/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =119
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=90_1479.98/V=80
+Delta time =239
+Off-0/Note(freq)=90_1479.98/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=91_1567.98/V=80
+Delta time =239
+Off-0/Note(freq)=91_1567.98/V=0
+Delta time =1
+On-0/Note(freq)=91_1567.98/V=80
+Delta time =119
+Off-0/Note(freq)=91_1567.98/V=0
+Delta time =1
+On-0/Note(freq)=90_1479.98/V=80
+Delta time =119
+Off-0/Note(freq)=90_1479.98/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =479
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=87_1244.51/V=80
+Delta time =239
+Off-0/Note(freq)=87_1244.51/V=0
+Delta time =1
+On-0/Note(freq)=87_1244.51/V=80
+Delta time =119
+Off-0/Note(freq)=87_1244.51/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =119
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=90_1479.98/V=80
+Delta time =239
+Off-0/Note(freq)=90_1479.98/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=95_1975.53/V=80
+Delta time =239
+Off-0/Note(freq)=95_1975.53/V=0
+Delta time =1
+On-0/Note(freq)=90_1479.98/V=80
+Delta time =239
+Off-0/Note(freq)=90_1479.98/V=0
+Delta time =1
+On-0/Note(freq)=95_1975.53/V=80
+Delta time =239
+Off-0/Note(freq)=95_1975.53/V=0
+Delta time =1
+On-0/Note(freq)=90_1479.98/V=80
+Delta time =239
+Off-0/Note(freq)=90_1479.98/V=0
+Delta time =1
+On-0/Note(freq)=91_1567.98/V=80
+Delta time =239
+Off-0/Note(freq)=91_1567.98/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=95_1975.53/V=80
+Delta time =239
+Off-0/Note(freq)=95_1975.53/V=0
+Delta time =1
+On-0/Note(freq)=90_1479.98/V=80
+Delta time =239
+Off-0/Note(freq)=90_1479.98/V=0
+Delta time =1
+On-0/Note(freq)=91_1567.98/V=80
+Delta time =239
+Off-0/Note(freq)=91_1567.98/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=91_1567.98/V=80
+Delta time =239
+Off-0/Note(freq)=91_1567.98/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+Time signature=1/Midi clock=24/Beat=8note
+Delta time =0
+On-0/Note(freq)=92_1661.22/V=80
+Delta time =239
+Off-0/Note(freq)=92_1661.22/V=0
+Delta time =1
+On-0/Note(freq)=92_1661.22/V=80
+Delta time =239
+Off-0/Note(freq)=92_1661.22/V=0
+Delta time =1
+On-0/Note(freq)=93_1760.00/V=80
+Delta time =479
+Off-0/Note(freq)=93_1760.00/V=0
+Delta time =1
+On-0/Note(freq)=95_1975.53/V=80
+Delta time =239
+Off-0/Note(freq)=95_1975.53/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+Time signature=1/Midi clock=24/Beat=8note
+Delta time =0
+On-0/Note(freq)=96_2093.00/V=80
+Delta time =239
+Off-0/Note(freq)=96_2093.00/V=0
+Delta time =1
+On-0/Note(freq)=96_2093.00/V=80
+Delta time =119
+Off-0/Note(freq)=96_2093.00/V=0
+Delta time =1
+On-0/Note(freq)=95_1975.53/V=80
+Delta time =119
+Off-0/Note(freq)=95_1975.53/V=0
+Delta time =1
+On-0/Note(freq)=93_1760.00/V=80
+Delta time =479
+Off-0/Note(freq)=93_1760.00/V=0
+Delta time =1
+Time signature=1/Midi clock=24/Beat=8note
+Delta time =0
+On-0/Note(freq)=92_1661.22/V=80
+Delta time =239
+Off-0/Note(freq)=92_1661.22/V=0
+Delta time =1
+On-0/Note(freq)=92_1661.22/V=80
+Delta time =239
+Off-0/Note(freq)=92_1661.22/V=0
+Delta time =1
+On-0/Note(freq)=93_1760.00/V=80
+Delta time =479
+Off-0/Note(freq)=93_1760.00/V=0
+Delta time =1
+On-0/Note(freq)=95_1975.53/V=80
+Delta time =239
+Off-0/Note(freq)=95_1975.53/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+Time signature=1/Midi clock=24/Beat=8note
+Delta time =0
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=73_554.37/V=80
+Delta time =239
+Off-0/Note(freq)=73_554.37/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=73_554.37/V=80
+Delta time =239
+Off-0/Note(freq)=73_554.37/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=72_523.25/V=80
+Delta time =239
+Off-0/Note(freq)=72_523.25/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=72_523.25/V=80
+Delta time =239
+Off-0/Note(freq)=72_523.25/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=72_523.25/V=80
+Delta time =239
+Off-0/Note(freq)=72_523.25/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=72_523.25/V=80
+Delta time =239
+Off-0/Note(freq)=72_523.25/V=0
+Delta time =1
+On-0/Note(freq)=67_392.00/V=80
+Delta time =239
+Off-0/Note(freq)=67_392.00/V=0
+Delta time =1
+On-0/Note(freq)=64_329.63/V=80
+Delta time =239
+Off-0/Note(freq)=64_329.63/V=0
+Delta time =1
+On-0/Note(freq)=64_329.63/V=80
+Delta time =239
+Off-0/Note(freq)=64_329.63/V=0
+Delta time =1
+On-0/Note(freq)=64_329.63/V=80
+Delta time =239
+Off-0/Note(freq)=64_329.63/V=0
+Delta time =1
+On-0/Note(freq)=67_392.00/V=80
+Delta time =239
+Off-0/Note(freq)=67_392.00/V=0
+Delta time =1
+On-0/Note(freq)=64_329.63/V=80
+Delta time =239
+Off-0/Note(freq)=64_329.63/V=0
+Delta time =1
+On-0/Note(freq)=64_329.63/V=80
+Delta time =239
+Off-0/Note(freq)=64_329.63/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =119
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =119
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =119
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =119
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=77_698.46/V=80
+Delta time =239
+Off-0/Note(freq)=77_698.46/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=77_698.46/V=80
+Delta time =239
+Off-0/Note(freq)=77_698.46/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =479
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =119
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =119
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =119
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =119
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=80_830.61/V=80
+Delta time =239
+Off-0/Note(freq)=80_830.61/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =959
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =119
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =119
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =119
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =119
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =959
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=76_659.26/V=80
+Delta time =239
+Off-0/Note(freq)=76_659.26/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =119
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =119
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =119
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =119
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=79_783.99/V=80
+Delta time =239
+Off-0/Note(freq)=79_783.99/V=0
+Delta time =1
+On-0/Note(freq)=80_830.61/V=80
+Delta time =239
+Off-0/Note(freq)=80_830.61/V=0
+Delta time =1
+On-0/Note(freq)=81_880.00/V=80
+Delta time =239
+Off-0/Note(freq)=81_880.00/V=0
+Delta time =1
+On-0/Note(freq)=82_932.33/V=80
+Delta time =239
+Off-0/Note(freq)=82_932.33/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=85_1108.73/V=80
+Delta time =239
+Off-0/Note(freq)=85_1108.73/V=0
+Delta time =1
+On-0/Note(freq)=85_1108.73/V=80
+Delta time =239
+Off-0/Note(freq)=85_1108.73/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=89_1396.91/V=80
+Delta time =239
+Off-0/Note(freq)=89_1396.91/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=85_1108.73/V=80
+Delta time =239
+Off-0/Note(freq)=85_1108.73/V=0
+Delta time =1
+On-0/Note(freq)=85_1108.73/V=80
+Delta time =239
+Off-0/Note(freq)=85_1108.73/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=89_1396.91/V=80
+Delta time =239
+Off-0/Note(freq)=89_1396.91/V=0
+Delta time =1
+On-0/Note(freq)=86_1174.66/V=80
+Delta time =239
+Off-0/Note(freq)=86_1174.66/V=0
+Delta time =1
+On-0/Note(freq)=83_987.77/V=80
+Delta time =239
+Off-0/Note(freq)=83_987.77/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=84_1046.50/V=80
+Delta time =239
+Off-0/Note(freq)=84_1046.50/V=0
+Delta time =1
+On-0/Note(freq)=91_1567.98/V=80
+Delta time =239
+Off-0/Note(freq)=91_1567.98/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=91_1567.98/V=80
+Delta time =239
+Off-0/Note(freq)=91_1567.98/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =239
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =1
+On-0/Note(freq)=88_1318.51/V=80
+Delta time =479
+Off-0/Note(freq)=88_1318.51/V=0
+Delta time =95
+There are no more byte in trak
